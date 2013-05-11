@@ -12,7 +12,7 @@ if [ $# -gt 0 ]; then
   branch=$1
 fi
 
-repo=Publero/$name
+repo=datakurre/$name
 if [ $# -gt 1 ]; then
   repo=$2
 fi
